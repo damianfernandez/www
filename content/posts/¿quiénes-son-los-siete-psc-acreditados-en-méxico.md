@@ -1,0 +1,11 @@
+---
+title: ¿Quiénes son los siete PSC acreditados en México?
+date: 2021-10-05T05:13:37.056Z
+---
+* ADVANTAGE SECURITY, S. DE R.L. DE C.V.
+* SEGURIDATA PRIVADA, S.A. DE C.V. 
+* EDICOMUNICACIONES MÉXICO, S.A. DE C.V. 
+* PSC WORLD, S.A. DE C.V.
+* CECOBAN, S.A. DE C.V. 
+* LEGALEX GS, S.A. DE C.V.
+* INTERFACTURA, S.A.P.I. DE C.V.
