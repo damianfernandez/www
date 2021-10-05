@@ -1,7 +1,7 @@
-baseURL = "https://damianfernandez.netlify.app/"
-languageCode = "en-us"
+baseURL = "https://damianfernandez.mx/"
+languageCode = "es-mx"
 theme = "hyde"
-title = "My New Hugo Site"
+title = "Damián•Fernández"
 [params]
 disqusShortname = ""
 googleAnalytics = ""
