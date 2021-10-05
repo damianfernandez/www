@@ -1,8 +1,9 @@
 baseURL = "https://damianfernandez.mx/"
 languageCode = "es-mx"
 theme = "hyde"
-title = "Damián•Fernández"
+title = "D•F"
 [params]
+description = "blog"
 disqusShortname = ""
 googleAnalytics = ""
 layoutReverse = false
