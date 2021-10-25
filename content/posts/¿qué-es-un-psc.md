@@ -7,7 +7,7 @@ Si estás familiarizado con la facturación electrónica habrás escuchado habla
 
 **¿Cuáles son los servicios que puede ofrecer un Proveedor de Servicios de Certificación?**
 
-De acuerdo con el Código de Comercio un PSC puede ofrecer servicios relacionados con la firma digital y la certificación tales como la conservación de mensajes de datos, el sellado digital de tiempo y la digitalización de documentos impresos. Sobre este punto  es importante tener en cuenta que La Secretaría de Economía al conceder a un entidad la acreditación como PSC específica cuáles son los servicios para  los que se le concede dicha acreditación.
+De acuerdo con el Código de Comercio un PSC puede ofrecer servicios relacionados con la emisión de certificados digitales tales como la conservación de mensajes de datos, el sellado digital de tiempo y la digitalización de documentos impresos. Sobre este punto  es importante tener en cuenta que la Secretaría de Economía al conceder a una entidad la acreditación como PSC específica cuáles son los servicios para  los que se le concede dicha acreditación.
 
 **Los PSC acreditados actualmente en México**
 
